@@ -1,0 +1,10 @@
+name: past_tense
+version: 0.1.0
+
+authors:
+  - Yacine Petitprez <anykeyh@gmail.com>
+
+description: |
+  Past tense inflector for Crystal Lang.
+
+license: MIT
